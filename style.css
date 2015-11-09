@@ -1,0 +1,24 @@
+.titleImg {
+  height:95%;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+html {
+   font-family: 'Open Sans', sans-serif;
+ }
+
+.img {
+  height:70%;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+
+.center {
+  text-align: center;
+}
+
+.largecon
+{
+  font-size: 12em;
+}
